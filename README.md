@@ -1,4 +1,10 @@
-# mern-frontend
+# Connection npm with mongodb
+npm i mongoose
+
+
+
+
+
 
 # Getting Started with Create React App
 
